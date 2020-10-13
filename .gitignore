@@ -1,0 +1,7 @@
+edepLookups.txt
+mvnw
+mvnw.cmd
+python/edepLookups.py
+target/
+python/__pycache__/
+
